@@ -6,6 +6,7 @@
    - [Description](#description)
    - [Usage](#usage)
    - [Contributing](#contributing)
+   - [Credits](#credits)
    - [License](#license)
 
   ## Description

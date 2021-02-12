@@ -1,14 +1,15 @@
 # budget-tracker
 
+![GitHub Logo](https://img.shields.io/badge/license-Apache%202.0-blue)
+
 ## Table of Contents
    - [Description](#description)
    - [Usage](#usage)
-   - [Tests](#tests)
    - [Contributing](#contributing)
    - [License](#license)
 
   ## Description
-  For this assignment, I was asked to create a professional README generator using the command line interface. You will now be able to create your own README by running this app. 
+  For this assignment, I was asked to add functionality to an existing Budget Tracker application to allow for offline access and functionality. This will give the user the ability to add and subtract expenses from their daily budget.
 
   ## Usage
   
@@ -18,9 +19,10 @@
   Not accepting any contributions at this time.
   
   ## Credits
-  * [Shields.io](https://shields.io/)
-  * [Node.js](https://nodejs.org/en/)
-  * [Inquirer.js](https://www.npmjs.com/package/inquirer)
+  
+  * [Charts.js](https://www.chartjs.org/)
+  * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+  * [Heroku](https://www.heroku.com/)
 
   ## License
   [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
